@@ -1,6 +1,6 @@
 # MkDocs
 
-https://insideearth2150.github.io/wiki/
+https://insideearth2150.github.io/wiki2/
 
 > *Project documentation with Markdown*
 
